@@ -1,0 +1,4 @@
+This processing sketch lets you create a visual representation of two sinusodial waves added together.
+The position of the mouse on the canvas adjusts the frequency and the up- down- left- and right-keyes alter the speed of the phase offset.
+Different draw-functions offer different representation.
+The sketch is build with two waves added together, but can easyly be changed to have more waves added to it.
